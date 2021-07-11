@@ -1,17 +1,18 @@
+DISCLAIMER:
+Hacking anyone without their permission is ILLEGAL!
+WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THESE TOOLS.
+
 # Phishing
-This Tools installs many famous phising tools on your termux By one click   It contains  SocialFish. Weeman.  HiddenEye. ShellFish. Blackeye. Pish. And EvilURL
-This Tools installs many famous phising tools on your termux
-By one click 
- It contains
+This tool installs many famous phishing tools on your device with ease. It contains the following:- 
+SocialFish
+Weeman
+1. HiddenEye
+2. ShellFish
+3. Blackeye
+4. Phish
+5. EvilURL
 
-SocialFish. Weeman.  HiddenEye. ShellFish. Blackeye. Pish. And EvilURL
-########
-Installation 
-#########
-bash requirements.sh 
-
-________ 
-Then
-_________
-
-python Phish.py 
+_________________________________________
+Installation
+sudo bash install.sh
+Done! Enjoy!
