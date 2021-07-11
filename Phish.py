@@ -16,5 +16,5 @@ def phish () :
     import os 
     os.system("cd /$HOME && git clone https://github.com/UndeadSec/EvilURL.git")
     import os 
-    os.system("clear && toilet -f big 'DONE...! ENJOY HACKER ' | lolcat")
+    os.system("clear && toilet -f big 'DONE...! Have fun! ' | lolcat")
 phish()
